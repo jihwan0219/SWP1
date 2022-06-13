@@ -1,2 +1,3 @@
-20223086 baejihwan
+20223086
+baejihwan
 Kookmin Univ. SW
